@@ -6,8 +6,8 @@
   },
   "template": {
     "repository": "https://github.com/Lab-for-Quantitative-Molecular-Biology/lqmb-template",
-    "version": "0.2.0",
-    "commit": "d41e607f70a2f4f0f7a417db85a3ae7f6d604c5a",
+    "version": "0.2.3",
+    "commit": "2d200f1f4ed5c5cfd94d1d8f960de555fa8faec0",
     "sync_policy": "prompt"
   },
   "dependencies_file": ".lqmb/dependencies.json"
